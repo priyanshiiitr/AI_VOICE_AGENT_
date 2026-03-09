@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+python-dotenv
+google-generativeai
+deepgram-sdk
+elevenlabs
+twilio
+psycopg2-binary
